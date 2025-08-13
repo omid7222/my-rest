@@ -21,4 +21,4 @@ git clone https://github.com/yourusername/my-rest.git
 cd my-rest
 npm install
 app.get('/api/hello', (req, res) => {fd
-  res.json({ message: 'Hello, world!' });;
+  res.json({ message: 'Hello, world!' })
