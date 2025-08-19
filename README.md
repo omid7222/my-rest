@@ -20,7 +20,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed. Then run:..
 git clone https://github.com/yourusername/my-rest.git
 cd my-rest
 npm install
-app.get('/api/hello', (req, res) => {fd
+app.get('/api/hello', (req, res) => {fdd
   res.json({ message: 'Hello, world!' })
 
 
