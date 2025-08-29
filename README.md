@@ -22,5 +22,7 @@ cd my-rest
 npm install
 app.get('/api/hello', (req, res) => {fdd
   res.json({ message: 'Hello, world!' }
+  res.json({ message: 'Hello, world!' }
+
 
 
