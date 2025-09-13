@@ -14,7 +14,7 @@ This is a simple REST API built using Node.js and Express. This repository is cu
 
 ## 🛠️ Installation
 
-Make sure you have [Node.js](https://nodejs.org/) installed. Then run:.
+Make sure you have [Node.js](https://nodejs.org/) installed. Then run:
 
 ```bash
 git clone https://github.com/yourusername/my-rest.git
